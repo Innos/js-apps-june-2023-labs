@@ -1,0 +1,7 @@
+body {
+    color: rgb(68, 67, 67);
+    background: rgb(228, 227, 227);
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}

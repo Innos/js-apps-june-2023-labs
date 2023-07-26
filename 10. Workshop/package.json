@@ -1,0 +1,22 @@
+{
+  "name": "sole-mates",
+  "version": "1.0.0",
+  "description": "Sole Mates Single Page Application",
+  "main": "index.html",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "lit": "^2.7.6",
+    "page": "1.11.6",
+    "three": "^0.138.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
